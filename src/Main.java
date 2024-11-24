@@ -5,8 +5,8 @@ public class Main {
         Teacher Alyssa=new Teacher("Alyssa","Zhang",7,0);
 
 
-
         System.out.println("Hello "+Henry.getName()+"!");
+
 
 
         Henry.doEat();

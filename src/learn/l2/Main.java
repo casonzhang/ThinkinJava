@@ -12,6 +12,7 @@ public class Main {
 
 //        iAnimal iHenry=(iAnimal)Henry;
 
+        String str=fish.toString();
 
 
 //        iHenry.doEat();

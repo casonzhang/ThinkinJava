@@ -8,3 +8,9 @@ https://lucid.app/lucidchart/ad959d03-6822-404b-9d50-42df7b6b43ac/edit?viewport_
 # Lesson2
 
 Interface: define the action of the class
+
+
+# Lesson 3
+abstract / extends class
+
+
